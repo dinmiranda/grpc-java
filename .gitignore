@@ -15,7 +15,6 @@ bazel-genfiles
 bazel-grpc-java
 bazel-out
 bazel-testlogs
-xds
 
 # IntelliJ IDEA
 .idea
